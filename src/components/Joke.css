@@ -1,0 +1,30 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+h3 {
+  color: #0f0e0e;
+  margin: 0;
+  font-size: 23px;
+  line-height: 1.5;
+}
+
+p {
+  color: #0f0e0e;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+ul {
+  margin: 30px;
+}
+li {
+  list-style-type: none;
+  display: inline-flex;
+  justify-content: center;
+  padding: 7px;
+}

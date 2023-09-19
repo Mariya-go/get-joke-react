@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f6f4f4;
+  background-image: url(./assets/funny_jokes_in_hindi.webp);
+  background-size: cover;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  /* max-width: 800px; */
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  margin-top: 100px;
+}
